@@ -1,6 +1,6 @@
 # 논문, 연구 리뷰
 ## Generation
-[ComboGAN] Anoosheh, Asha, et al. "Combogan: Unrestrained scalability for image domain translation." Proceedings of the IEEE conference on computer vision and pattern recognition workshops. 2018. /논문/논문리뷰
+[ComboGAN] Anoosheh, Asha, et al. "Combogan: Unrestrained scalability for image domain translation." Proceedings of the IEEE conference on computer vision and pattern recognition workshops. 2018. /논문(https://arxiv.org/abs/1712.06909)/논문리뷰(https://github.com/fud200/Paper-review/blob/main/ComboGAN.pdf)
 [Sketch-RNN] Ha, David, and Douglas Eck. "A neural representation of sketch drawings." arXiv preprint arXiv:1704.03477 (2017). /논문/논문리뷰
 [Song18] Song, Jifei, et al. "Learning to sketch with shortcut cycle consistency." Proceedings of the IEEE conference on computer vision and pattern recognition. 2018. /논문/논문리뷰
 ## Super-Resolution
