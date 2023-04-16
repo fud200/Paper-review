@@ -1,11 +1,11 @@
 # 논문, 연구 리뷰
 ## Generation
- - [ComboGAN] Anoosheh, Asha, et al. "Combogan: Unrestrained scalability for image domain translation." Proceedings of the IEEE conference on computer vision and pattern recognition workshops. 2018. /[논문](https://arxiv.org/abs/1712.06909) / [논문리뷰](https://github.com/fud200/Paper-review/blob/main/ComboGAN.pdf)
+ - [ComboGAN] Anoosheh, Asha, et al. "Combogan: Unrestrained scalability for image domain translation." Proceedings of the IEEE conference on computer vision and pattern recognition workshops. 2018. / [논문](https://arxiv.org/abs/1712.06909) / [논문리뷰](https://github.com/fud200/Paper-review/blob/main/ComboGAN.pdf)
 
- - [Sketch-RNN] Ha, David, and Douglas Eck. "A neural representation of sketch drawings." arXiv preprint arXiv:1704.03477 (2017). /논문/논문리뷰
-[Song18] Song, Jifei, et al. "Learning to sketch with shortcut cycle consistency." Proceedings of the IEEE conference on computer vision and pattern recognition. 2018. /논문/논문리뷰
+ - [Sketch-RNN] Ha, David, and Douglas Eck. "A neural representation of sketch drawings." arXiv preprint arXiv:1704.03477 (2017). / [논문](https://arxiv.org/abs/1704.03477) / [논문리뷰](https://github.com/fud200/Paper-review/blob/main/Sketch_RNN.pdf)
+ - [Song18] Song, Jifei, et al. "Learning to sketch with shortcut cycle consistency." Proceedings of the IEEE conference on computer vision and pattern recognition. 2018. / [논문](https://arxiv.org/abs/1805.00247) / [논문리뷰](https://github.com/fud200/Paper-review/blob/main/Learning%20to%20Sketch%20with%20Shortcut%20Cycle%20Consistency.pdf)
 ## Super-Resolution
-[EDSR] Lim, Bee, et al. "Enhanced deep residual networks for single image super-resolution." Proceedings of the IEEE conference on computer vision and pattern recognition workshops. 2017./논문/논문리뷰
+[EDSR] Lim, Bee, et al. "Enhanced deep residual networks for single image super-resolution." Proceedings of the IEEE conference on computer vision and pattern recognition workshops. 2017./[논문](https://arxiv.org/abs/1805.00247) / [논문리뷰]()
 [ESRGAN] Wang, Xintao, et al. "Esrgan: Enhanced super-resolution generative adversarial networks." Proceedings of the European conference on computer vision (ECCV) 
 workshops. 2018./논문/논문리뷰
 ## Vision Transformer(VIT)
